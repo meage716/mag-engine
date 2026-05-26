@@ -105,6 +105,3 @@ The goal is to understand every byte that hits the screen.
 
 > "I want to know what every line of code does, and why."
 
-## License
-
-MIT
